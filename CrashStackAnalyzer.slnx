@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CrashStackAnalyzer.Console/CrashStackAnalyzer.Console.csproj" />
+  <Project Path="CrashStackAnalyzer/CrashStackAnalyzer.csproj" />
+</Solution>
